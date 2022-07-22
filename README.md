@@ -20,16 +20,21 @@
 
  <h2> 💻 Funcionamento </h2>
  
- EM CONSTRUÇÃO
-
-
-<h2> 📱 Responsividade para smartphone </h2>
-
+ <h4> Página Inicial </h4>
+ 
 EM CONSTRUÇÃO
+
+<h4> Página Fale Conosco </h4>
+
+![fale-conosco](https://user-images.githubusercontent.com/106767653/180466280-81e1072c-2605-498b-ad22-4b8a6a2155e0.gif)
+
+<h4> Página Onde Estamos </h4>
+
+![onde-estamos](https://user-images.githubusercontent.com/106767653/180466518-098109eb-73eb-459d-b0b3-722216beff4a.gif)
 
  
  <h2> 😊 Testar a aplicação </h2>
  
- EM CONSTRUÇÃO 
+ [Clique aqui!](https://carolinebarbara.github.io/loja-otica/projeto-otica/index.html)
  
  ##

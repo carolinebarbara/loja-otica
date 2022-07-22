@@ -20,18 +20,16 @@
 
  <h2> 💻 Funcionamento </h2>
  
- 
- 
- 
-![animacao](https://user-images.githubusercontent.com/106767653/179636965-d3ee41e9-8417-4dde-8546-a36c3a5e0eb0.gif)
+ EM CONSTRUÇÃO
+
 
 <h2> 📱 Responsividade para smartphone </h2>
 
-![animacao-resp](https://user-images.githubusercontent.com/106767653/179637406-5a5ee893-053a-4f4b-ace5-10f8dcbca9f7.gif)
+EM CONSTRUÇÃO
 
  
  <h2> 😊 Testar a aplicação </h2>
  
- [Clique aqui!](https://carolinebarbara.github.io/page-dark-mode/dark-mode-shoe/)
+ EM CONSTRUÇÃO 
  
  ##
